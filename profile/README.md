@@ -3,9 +3,9 @@ Here is a summary of what this repo is for
 ## Project Templates & Design Guidelines
 Here is a summary and links to templates, project goals/designs, and stuff
 ## Resources
-Here is a collection of important documentation, information and stuff
-## Assets
-Assets lol
+[Here is a collection of important documentation, information, etc.](https://github.com/PathfinderIT/RepoResources)
+## PFS Branding Assets
+[Branding Assets](https://github.com/PathfinderIT/PFS_Branding)
 
 <!--
 
